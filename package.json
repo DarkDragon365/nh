@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/tuhinpal/WhatsBot#readme",
   "dependencies": {
-    "@iamtraction/google-translate": "^1.1.2",
+    "@iamtraction/google-translate": "^2.0.1",
     "adm-zip": "^0.5.9",
     "aes-encrypt-stream": "^0.2.0",
     "axios": "^0.21.0",
